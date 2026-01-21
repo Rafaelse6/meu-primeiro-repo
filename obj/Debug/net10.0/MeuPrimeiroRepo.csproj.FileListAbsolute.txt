@@ -1,0 +1,15 @@
+D:\ws-csharp\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.exe
+D:\ws-csharp\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.deps.json
+D:\ws-csharp\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.runtimeconfig.json
+D:\ws-csharp\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.dll
+D:\ws-csharp\MeuPrimeiroRepo\bin\Debug\net10.0\MeuPrimeiroRepo.pdb
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.AssemblyInfo.cs
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.sourcelink.json
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.dll
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\refint\MeuPrimeiroRepo.dll
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.pdb
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\MeuPrimeiroRepo.genruntimeconfig.cache
+D:\ws-csharp\MeuPrimeiroRepo\obj\Debug\net10.0\ref\MeuPrimeiroRepo.dll
